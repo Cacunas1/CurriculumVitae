@@ -1,1 +1,7 @@
 /*.aux
+/auto/
+/auto/*
+/*.out
+/*.log
+/*.gz
+picture.png
